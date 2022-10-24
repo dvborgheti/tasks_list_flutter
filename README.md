@@ -5,7 +5,7 @@
 Este projeto implementa uma lista de tarefas, usando niveis e dificuldades, que pode ser setado pelo usuário. 
 Também implementa a ferramenta para esconder a lista caso necessário. 
 
-<img src="https://imgur.com/S8Jh2JH" width="350"/>
+<img src="https://i.imgur.com/S8Jh2JH.png" width="350"/>
 
 ## 🧑‍💻 Técnicas e Tecnologias
 
