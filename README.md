@@ -1,8 +1,18 @@
-# alura
+# Flutter: Lista de Tarefas 
 
-A new Flutter project.
+## 📱 Projeto
 
-## Getting Started
+Este projeto implementa uma lista de tarefas, usando niveis e dificuldades, que pode ser setado pelo usuário. 
+Também implementa a ferramenta para esconder a lista caso necessário. 
+
+<img src="https://imgur.com/S8Jh2JH" width="350"/>
+
+## 🧑‍💻 Técnicas e Tecnologias
+
+- Dart 
+- Flutter
+
+## 📲 Getting Started
 
 This project is a starting point for a Flutter application.
 
